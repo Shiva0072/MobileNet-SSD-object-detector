@@ -1,1 +1,1 @@
-# MobileNet-SSD-object-detector
+Heltmet detector
